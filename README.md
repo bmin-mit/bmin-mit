@@ -8,7 +8,7 @@ I have [another GitHub profile page](https://github.com/bm-mit/), which I cannot
 
 Feel free to connect with me here:
 
-![LinkedIn Badge](https://img.shields.io/badge/-bmmit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbmmit%2F)
+[![LinkedIn Badge](https://img.shields.io/badge/-bmmit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbmmit%2F)](https://www.linkedin.com/in/bmmit/)
 
 ## Technologies
 
