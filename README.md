@@ -1,14 +1,15 @@
 ## Hi, there!!! <img src="/wave.gif" width=30>
 
-I am Đoàn Ngọc Bình Minh, a young and eager student at VNU-HCM High School for the Gifted in the specialized class Informatics.
-I am currently looking for an opportunity to study abroad in higher education and continue my studies on scholarship.
-I'm also highly interested in Software Engineering and have been working on certain projects with it for quite some time.
+I am Đoàn Ngọc Bình Minh. I'm currently pursuing a degree in **Software, Data & Technology** at Constructor University. My study is fully-funded by **JetBrains Foundation scholarship**.
 
-I have [another GitHub profile page](https://github.com/bm-mit/), which I cannot access anymore for some security reasons and policies from GitHub.
+I'm highly interested in Software Engineering and have been building sofware projects for several years.
 
-Feel free to connect with me here:
+Feel free to check out [TabNote](https://github.com/bmin-mit/TabNote-Extension), my note-taking extension on Google Chrome that I'm developing in my free time.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-bmmit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbmmit%2F)](https://www.linkedin.com/in/bmmit/)
+Connect with me at [LinkedIn](https://www.linkedin.com/in/bmmit/).
+
+
+<image src="https://leetcard.jacoblin.cool/bm-mit?ext=heatmap&font=lexend">
 
 ## Technologies
 
