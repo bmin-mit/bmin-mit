@@ -1,6 +1,6 @@
 ## Hi, there!!! <img src="/wave.gif" width=30>
 
-I am Đoàn Ngọc Bình Minh. I'm currently pursuing a degree in **Software, Data & Technology** at Constructor University. My study is fully-funded by **JetBrains Foundation scholarship**.
+I am Đoàn Ngọc Bình Minh. I'm currently pursuing a degree in **Software, Data & Technology** at Constructor University. 
 
 I'm highly interested in Software Engineering and have been building sofware projects for several years.
 
