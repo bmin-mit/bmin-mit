@@ -8,6 +8,9 @@ Feel free to check out [TabNote](https://github.com/bmin-mit/TabNote-Extension),
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/bmmit/).
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bmin-mit&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=bmin-mit&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=bmmit&langs_count=6&theme=dark_github&hide_title=true)](https://wakatime.com/@bmmit)
 
 <image src="https://leetcard.jacoblin.cool/bm-mit?ext=heatmap&font=lexend">
 
